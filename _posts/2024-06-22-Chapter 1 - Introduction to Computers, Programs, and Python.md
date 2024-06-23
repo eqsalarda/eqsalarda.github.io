@@ -19,8 +19,6 @@ tags: [notes, python]
     3. [High-Level Languages](#high-level-languages)
 4. [Operating Systems](#operating-systems)
 
-</span>
-
 ### Introduction
 
 The term <span class="code green">**programming**</span> means to create (or to develop) software, also called a <span class="code green">**program.**</span>  
