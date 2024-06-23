@@ -18,7 +18,7 @@ tags: [notes, python]
 10. [The 'in' and 'not in' Operators](#the-in-and-not-in-operators)
 11. [Comparing Strings](#comparing-strings)
 12. [Functions for Strings](#functions-for-strings)
-13. [Index Operators '[ ]'](#index-operators)
+13. [Index Operators '[ ]'](#index-operators--)
 14. [The Slicing Operator '[start:end]'](#the-slicing-operator-startend)
 15. [Introduction to Objects and Methods](#introduction-to-objects-and-methods)
 16. [String Methods](#string-methods)
