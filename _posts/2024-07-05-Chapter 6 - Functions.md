@@ -1,3 +1,11 @@
+---
+layout: post
+title: Chapter 06 - Functions
+categories: [COSC1436]
+tags: [notes, python]
+---
+
+
 ## Chapter 06: Functions
 
 ### Contents
