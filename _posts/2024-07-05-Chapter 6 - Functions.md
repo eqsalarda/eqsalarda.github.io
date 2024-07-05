@@ -6,6 +6,8 @@ tags: [notes, python]
 ---
 
 
+# COSC 1436 - Programming Fundamentals 1
+
 ## Chapter 06: Functions
 
 ### Contents
@@ -14,7 +16,6 @@ tags: [notes, python]
 2. [Calling a Function](#calling-a-function)
 3. [Return Values](#return-values)
 4. [Positional and Keyword Arguments](#positional-and-keyword-arguments)
-5. [Passing Arguments by Reference Values](#passing-arguments-by-reference-values)
 6. [Modularizing Code](#modularizing-code)
 7. [Variable Scope](#variable-scope)
 8. [Default Arguments](#default-arguments)
@@ -76,11 +77,26 @@ The function <span class="code blue">def</span> <span class="code">main()</span>
 
 ## Positional and Keyword Arguments
 
+A function's arguments can be passed as either <span class="code green">positional arguments</span> or <span class="code green">keyword arguments</span>. 
 
+Examples:
 
-## Passing Arguments by Reference Values
+<span class="code red">Positional Arguments</span>
+```python
+def message(message, n):
+    print(message * n)
 
+message("HI", 5)
+```
+<span class="code red">Keyword Arguments</span>
+```python
+def message(message="", n=1):
+    print(message * n)
 
+message(message="HI", n=5)
+```
+
+Both of these examples print the string <span class="code">HI</span> 5 times, but one function takes positional arguments and the other takes keyword arguments.
 
 ## Modularizing Code
 
