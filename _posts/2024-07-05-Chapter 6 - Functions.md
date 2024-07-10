@@ -5,11 +5,6 @@ categories: [COSC1436]
 tags: [notes, python]
 ---
 
-
-# COSC 1436 - Programming Fundamentals 1
-
-## Chapter 06: Functions
-
 ### Contents
 
 1. [Defining a Function](#defining-a-function)
