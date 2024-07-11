@@ -11,7 +11,7 @@ tags: [notes, python]
 - [List Basics](#list-basics)
 - [List is a Sequence](#list-is-a-sequence)
 - [Functions for Lists](#functions-for-lists)
-- [The Index Operator](#the-index-operator)
+- [The Index Operator](#index-operator--)
 - [List Slicing](#list-slicing)
 - [The +, +=, *, and in/not in Operators](#the--+-=-*-and-innot-in-operators)
 - [Traversing Elements in a For Loop](#traversing-elements-in-a-for-loop)
@@ -20,10 +20,7 @@ tags: [notes, python]
 - [List Methods](#list-methods)
 - [Splitting a String into a List](#splitting-a-string-into-a-list)
 - [Inputting Lists](#inputting-lists)
-- [Shifting Lists](#shifting-lists)
 - [Copying Lists](#copying-lists)
-- [Searching Lists](#searching-lists)
-- [Sorting Lists](#sorting-lists)
 
 
 ## List Basics
